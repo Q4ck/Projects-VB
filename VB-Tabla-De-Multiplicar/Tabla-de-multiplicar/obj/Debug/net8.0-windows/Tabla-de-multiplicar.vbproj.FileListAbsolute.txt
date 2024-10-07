@@ -1,0 +1,17 @@
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\bin\Debug\net8.0-windows\Tabla-de-multiplicar.exe
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\bin\Debug\net8.0-windows\Tabla-de-multiplicar.deps.json
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\bin\Debug\net8.0-windows\Tabla-de-multiplicar.runtimeconfig.json
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\bin\Debug\net8.0-windows\Tabla-de-multiplicar.dll
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\bin\Debug\net8.0-windows\Tabla-de-multiplicar.pdb
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\obj\Debug\net8.0-windows\Tabla_de_multiplicar.Form1.resources
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\obj\Debug\net8.0-windows\Tabla-de-multiplicar.vbproj.GenerateResource.cache
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\obj\Debug\net8.0-windows\Tabla-de-multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\obj\Debug\net8.0-windows\Tabla-de-multiplicar.AssemblyInfoInputs.cache
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\obj\Debug\net8.0-windows\Tabla-de-multiplicar.AssemblyInfo.vb
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\obj\Debug\net8.0-windows\Tabla-de-multiplicar.vbproj.CoreCompileInputs.cache
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\obj\Debug\net8.0-windows\Tabla-de-multiplicar.dll
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\obj\Debug\net8.0-windows\refint\Tabla-de-multiplicar.dll
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\obj\Debug\net8.0-windows\Tabla-de-multiplicar.pdb
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\obj\Debug\net8.0-windows\Tabla-de-multiplicar.genruntimeconfig.cache
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\obj\Debug\net8.0-windows\ref\Tabla-de-multiplicar.dll
+C:\Users\estudiente08\Desktop\Decimo\Tabla-de-multiplicar\Tabla-de-multiplicar\obj\Debug\net8.0-windows\Tabla_de_multiplicar.inicio.resources

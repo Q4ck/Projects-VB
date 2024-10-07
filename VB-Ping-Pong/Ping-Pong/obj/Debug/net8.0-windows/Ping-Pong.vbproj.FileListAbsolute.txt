@@ -1,0 +1,53 @@
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.vbproj.GenerateResource.cache
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.AssemblyInfoInputs.cache
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.AssemblyInfo.vb
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.vbproj.CoreCompileInputs.cache
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.exe
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.deps.json
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.runtimeconfig.json
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.dll
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.pdb
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.dll
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\refint\Ping-Pong.dll
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.pdb
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.genruntimeconfig.cache
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\ref\Ping-Pong.dll
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping_Pong.Form1.resources
+C:\Users\estudiente08\Desktop\Decimo\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping_Pong.Inicio.resources
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.exe
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.deps.json
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.runtimeconfig.json
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.dll
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.pdb
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping_Pong.Form1.resources
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping_Pong.Inicio.resources
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping_Pong.Resources.resources
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.vbproj.GenerateResource.cache
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.AssemblyInfoInputs.cache
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.AssemblyInfo.vb
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.vbproj.CoreCompileInputs.cache
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.dll
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\refint\Ping-Pong.dll
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.pdb
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.genruntimeconfig.cache
+C:\Users\SONIA POLOCHE\OneDrive - Instituto Técnico en Sistemas Santa Rosa de Lima\Escritorio\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\ref\Ping-Pong.dll
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.exe
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.deps.json
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.runtimeconfig.json
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.dll
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\bin\Debug\net8.0-windows\Ping-Pong.pdb
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping_Pong.Form1.resources
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping_Pong.Inicio.resources
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping_Pong.Resources.resources
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.vbproj.GenerateResource.cache
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.AssemblyInfoInputs.cache
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.AssemblyInfo.vb
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.vbproj.CoreCompileInputs.cache
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.dll
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\refint\Ping-Pong.dll
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.pdb
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\Ping-Pong.genruntimeconfig.cache
+C:\Users\estudiente08\Desktop\Ping-Pong\Ping-Pong\obj\Debug\net8.0-windows\ref\Ping-Pong.dll
