@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\David\\Visual Studio\\Proyectos\\Ping-Pong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A734EE4C-DE30-4A22-8AAD-C76310215DCB}|Ping-Pong\\Ping-Pong.vbproj|d:\\david\\visual studio\\proyectos\\ping-pong\\ping-pong\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A734EE4C-DE30-4A22-8AAD-C76310215DCB}|Ping-Pong\\Ping-Pong.vbproj|solutionrelative:ping-pong\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A734EE4C-DE30-4A22-8AAD-C76310215DCB}|Ping-Pong\\Ping-Pong.vbproj|D:\\David\\Visual Studio\\Proyectos\\Ping-Pong\\ping-pong\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A734EE4C-DE30-4A22-8AAD-C76310215DCB}|Ping-Pong\\Ping-Pong.vbproj|solutionrelative:ping-pong\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A734EE4C-DE30-4A22-8AAD-C76310215DCB}|Ping-Pong\\Ping-Pong.vbproj|D:\\David\\Visual Studio\\Proyectos\\Ping-Pong\\ping-pong\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A734EE4C-DE30-4A22-8AAD-C76310215DCB}|Ping-Pong\\Ping-Pong.vbproj|solutionrelative:ping-pong\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A734EE4C-DE30-4A22-8AAD-C76310215DCB}|Ping-Pong\\Ping-Pong.vbproj|D:\\David\\Visual Studio\\Proyectos\\Ping-Pong\\ping-pong\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A734EE4C-DE30-4A22-8AAD-C76310215DCB}|Ping-Pong\\Ping-Pong.vbproj|solutionrelative:ping-pong\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\David\\Visual Studio\\Proyectos\\Ping-Pong\\Ping-Pong\\Form1.vb",
+              "RelativeDocumentMoniker": "Ping-Pong\\Form1.vb",
+              "ToolTip": "D:\\David\\Visual Studio\\Proyectos\\Ping-Pong\\Ping-Pong\\Form1.vb",
+              "RelativeToolTip": "Ping-Pong\\Form1.vb",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwCUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-11T20:17:30.088Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inicio.vb",
+              "DocumentMoniker": "D:\\David\\Visual Studio\\Proyectos\\Ping-Pong\\Ping-Pong\\Inicio.vb",
+              "RelativeDocumentMoniker": "Ping-Pong\\Inicio.vb",
+              "ToolTip": "D:\\David\\Visual Studio\\Proyectos\\Ping-Pong\\Ping-Pong\\Inicio.vb",
+              "RelativeToolTip": "Ping-Pong\\Inicio.vb",
+              "ViewState": "AQIAABcAAAAAAAAAAAAMwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-13T20:23:09.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inicio.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\David\\Visual Studio\\Proyectos\\Ping-Pong\\Ping-Pong\\Inicio.vb",
+              "RelativeDocumentMoniker": "Ping-Pong\\Inicio.vb",
+              "ToolTip": "D:\\David\\Visual Studio\\Proyectos\\Ping-Pong\\Ping-Pong\\Inicio.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ping-Pong\\Inicio.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-11T21:05:29.206Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\David\\Visual Studio\\Proyectos\\Ping-Pong\\Ping-Pong\\Form1.vb",
+              "RelativeDocumentMoniker": "Ping-Pong\\Form1.vb",
+              "ToolTip": "C:\\Users\\estudiente08\\Desktop\\Ping-Pong\\Ping-Pong\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-11T20:16:30.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

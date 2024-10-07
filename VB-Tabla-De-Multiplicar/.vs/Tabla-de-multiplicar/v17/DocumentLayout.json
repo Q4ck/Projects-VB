@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estudiente08\\Desktop\\Decimo\\Tabla-de-multiplicar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EABE4B69-CF92-47FC-A82B-01E70890E63A}|Tabla-de-multiplicar\\Tabla-de-multiplicar.vbproj|c:\\users\\estudiente08\\desktop\\decimo\\tabla-de-multiplicar\\tabla-de-multiplicar\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EABE4B69-CF92-47FC-A82B-01E70890E63A}|Tabla-de-multiplicar\\Tabla-de-multiplicar.vbproj|solutionrelative:tabla-de-multiplicar\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABE4B69-CF92-47FC-A82B-01E70890E63A}|Tabla-de-multiplicar\\Tabla-de-multiplicar.vbproj|C:\\Users\\estudiente08\\Desktop\\Decimo\\Tabla-de-multiplicar\\tabla-de-multiplicar\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EABE4B69-CF92-47FC-A82B-01E70890E63A}|Tabla-de-multiplicar\\Tabla-de-multiplicar.vbproj|solutionrelative:tabla-de-multiplicar\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABE4B69-CF92-47FC-A82B-01E70890E63A}|Tabla-de-multiplicar\\Tabla-de-multiplicar.vbproj|C:\\Users\\estudiente08\\Desktop\\Decimo\\Tabla-de-multiplicar\\tabla-de-multiplicar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EABE4B69-CF92-47FC-A82B-01E70890E63A}|Tabla-de-multiplicar\\Tabla-de-multiplicar.vbproj|solutionrelative:tabla-de-multiplicar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABE4B69-CF92-47FC-A82B-01E70890E63A}|Tabla-de-multiplicar\\Tabla-de-multiplicar.vbproj|C:\\Users\\estudiente08\\Desktop\\Decimo\\Tabla-de-multiplicar\\tabla-de-multiplicar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EABE4B69-CF92-47FC-A82B-01E70890E63A}|Tabla-de-multiplicar\\Tabla-de-multiplicar.vbproj|solutionrelative:tabla-de-multiplicar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\estudiente08\\Desktop\\Decimo\\Tabla-de-multiplicar\\Tabla-de-multiplicar\\Form1.vb",
+              "RelativeDocumentMoniker": "Tabla-de-multiplicar\\Form1.vb",
+              "ToolTip": "C:\\Users\\estudiente08\\Desktop\\Decimo\\Tabla-de-multiplicar\\Tabla-de-multiplicar\\Form1.vb",
+              "RelativeToolTip": "Tabla-de-multiplicar\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-03T21:10:12.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inicio.vb",
+              "DocumentMoniker": "C:\\Users\\estudiente08\\Desktop\\Decimo\\Tabla-de-multiplicar\\Tabla-de-multiplicar\\inicio.vb",
+              "RelativeDocumentMoniker": "Tabla-de-multiplicar\\inicio.vb",
+              "ToolTip": "C:\\Users\\estudiente08\\Desktop\\Decimo\\Tabla-de-multiplicar\\Tabla-de-multiplicar\\inicio.vb",
+              "RelativeToolTip": "Tabla-de-multiplicar\\inicio.vb",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAiwFsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-03T19:55:38.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inicio.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\estudiente08\\Desktop\\Decimo\\Tabla-de-multiplicar\\Tabla-de-multiplicar\\inicio.vb",
+              "RelativeDocumentMoniker": "Tabla-de-multiplicar\\inicio.vb",
+              "ToolTip": "C:\\Users\\estudiente08\\Desktop\\Decimo\\Tabla-de-multiplicar\\Tabla-de-multiplicar\\inicio.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Tabla-de-multiplicar\\inicio.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-03T20:49:21.634Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\estudiente08\\Desktop\\Decimo\\Tabla-de-multiplicar\\Tabla-de-multiplicar\\Form1.vb",
+              "RelativeDocumentMoniker": "Tabla-de-multiplicar\\Form1.vb",
+              "ToolTip": "C:\\Users\\estudiente08\\Desktop\\Decimo\\Tabla-de-multiplicar\\Tabla-de-multiplicar\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Tabla-de-multiplicar\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-03T19:40:59.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
